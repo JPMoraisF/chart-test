@@ -1,0 +1,142 @@
+{
+  "categorias": [
+    {
+      "categoryName": "Comida",
+      "produtos": [
+        {
+          "nomeProduto": "Fruta",
+          "marca": [
+            {
+              "nomeMarca": "Fruta1",
+              "vendas": {
+                "janeiro": 120,
+                "fevereiro": 210,
+                "marco": 250,
+                "abril": 320
+              }
+            },
+            {
+              "nomeMarca": "Fruta2",
+              "vendas": {
+                "janeiro": 70,
+                "fevereiro": 130,
+                "marco": 200,
+                "abril": 380
+              }
+            },
+            {
+              "nomeMarca": "Fruta3",
+              "vendas": {
+                "janeiro": 380,
+                "fevereiro": 350,
+                "marco": 270,
+                "abril": 70
+              }
+            }
+          ]
+        },
+        {
+          "nomeProduto": "Verdura",
+          "marca": [
+            {
+              "nomeMarca": "Verdura1",
+              "vendas": {
+                "janeiro": 90,
+                "fevereiro": 100,
+                "marco": 110,
+                "abril": 70
+              }
+            },
+            {
+              "nomeMarca": "Verdura2",
+              "vendas": {
+                "janeiro": 70,
+                "fevereiro": 80,
+                "marco": 90,
+                "abril": 360
+              }
+            },
+            {
+              "nomeMarca": "Verdura3",
+              "vendas": {
+                "janeiro": 120,
+                "fevereiro": 130,
+                "marco": 110,
+                "abril": 170
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "Bebida",
+      "produtos": [
+        {
+          "nomeProduto": "Água",
+          "marca": [
+            {
+              "nomeMarca": "Água1",
+              "vendas": {
+                "janeiro": 300,
+                "fevereiro": 420,
+                "marco": 350,
+                "abril": 170
+              }
+            },
+            {
+              "nomeMarca": "Água2",
+              "vendas": {
+                "janeiro": 180,
+                "fevereiro": 290,
+                "marco": 310,
+                "abril": 110
+              }
+            },
+            {
+              "nomeMarca": "Água3",
+              "vendas": {
+                "janeiro": 250,
+                "fevereiro": 260,
+                "marco": 270,
+                "abril": 90
+              }
+            }
+          ]
+        },
+        {
+          "nomeProduto": "Soda",
+          "marca": [
+            {
+              "nomeMarca": "Soda1",
+              "vendas": {
+                "janeiro": 400,
+                "fevereiro": 420,
+                "marco": 50,
+                "abril": 130
+              }
+            },
+            {
+              "nomeMarca": "Soda2",
+              "vendas": {
+                "janeiro": 38,
+                "fevereiro": 190,
+                "marco": 40,
+                "abril": 190
+              }
+            },
+            {
+              "nomeMarca": "Soda3",
+              "vendas": {
+                "janeiro": 60,
+                "fevereiro": 95,
+                "marco": 110,
+                "abril": 90
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
